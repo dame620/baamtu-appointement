@@ -109,6 +109,7 @@
   },
   "defaultProject": "mybaamtuapp",
   "cli": {
+    "analytics": false,
     "packageManager": "npm"
   }
 }
